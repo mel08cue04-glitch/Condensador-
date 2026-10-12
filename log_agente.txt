@@ -1,0 +1,8 @@
+Balance: Q = 432.7 kW (latente 432.7, desobrecal. 0.0, subenfr. 0.0); Wc = 5.173 kg/s; t2 = 45.0 °C
+  Zona Condensación: Q = 432.7 kW, DMLT = 98.16 K
+Chequeo Ft con 1 carcasa(s) en serie y 2 pasos: Ft = 1.000
+Prediseño: Ud_est = 1500 W/m2K, A' = 2.94 m2, Nt provisorio ~ 13 tubos (L = 3.66 m)
+Iteración sobre Ds / pasos / espaciado B / longitud (se reconfigura solo):
+  Ds = 102 mm -> descartado (causa dominante: Rd)
+  Ds = 154 mm -> hay configuraciones que cumplen todo
+Selección: Ds = 154 mm, n = 2, Nt = 20, B = 152 mm, L = 2.75 m
