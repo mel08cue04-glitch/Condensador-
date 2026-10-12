@@ -1,3 +1,6 @@
+streamlit
+openpyxl
+
 Balance: Q = 432.7 kW (latente 432.7, desobrecal. 0.0, subenfr. 0.0); Wc = 5.173 kg/s; t2 = 45.0 °C
   Zona Condensación: Q = 432.7 kW, DMLT = 98.16 K
 Chequeo Ft con 1 carcasa(s) en serie y 2 pasos: Ft = 1.000
